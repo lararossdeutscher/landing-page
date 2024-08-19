@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.logo{
+    height: 65px;
+
+}
+
+.imagem{
+height: 170px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.links{
+display: flex;
+flex-direction: row;
+
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+
+
+}
+
+.header{
+    background-color: blue;
+
+
+}
+
+.conteudo-header{
+background-color: aquamarine;
+display: flex;
+flex-direction: row;
+align-items: center;
+
+}
+
+.texto-header{
+padding: 15px;
+
+}
